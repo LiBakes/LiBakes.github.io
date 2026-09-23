@@ -1,0 +1,168 @@
+{
+  "loja": {
+    "nome": "Li Bakes",
+    "lema": "Doçaria feita em casa, entregue ao domingo.",
+    "sobre": "Faço tudo de raiz, em quantidades pequenas, com manteiga a sério e sem pressa. Há uma fornada por semana, entregue ao domingo, para que nada chegue a ninguém com mais de um dia.",
+    "zona": "Levantamento em Samora Correia, combinado por mensagem.",
+    "localidade": "Samora Correia",
+    "whatsapp": "351900000000",
+    "instagram": "https://www.instagram.com/",
+    "facebook": "",
+    "email": "",
+    "semanas": 8,
+    "diaEntrega": 0,
+    "diaFecho": 3,
+    "horaFecho": 23,
+    "diasBloqueados": [],
+    "diasCheios": [],
+    "levantamento": true,
+    "moradaLevantamento": "Samora Correia, morada combinada por mensagem",
+    "taxaEntrega": 0,
+    "entregaGratisAcima": 0,
+    "minimoEncomenda": 0,
+    "pagamentos": "MB WAY, transferência ou numerário no levantamento",
+    "nif": "",
+    "livroReclamacoes": "",
+    "endpoint": "",
+    "pin": "",
+    "moeda": "EUR",
+    "entrega": false
+  },
+  "produtos": [
+    {
+      "id": "p1",
+      "nome": "Cookies",
+      "descricao": "Caixa de 6, ao gosto.",
+      "preco": 9,
+      "unidade": "caixa",
+      "imagem": "",
+      "ativo": true,
+      "prazo": 0,
+      "alergenios": "glúten, ovo, leite, soja",
+      "conservacao": "Melhor nos primeiros 3 dias, em caixa fechada",
+      "variantes": [
+        {
+          "id": "v1",
+          "nome": "Chocolate chip",
+          "descricao": "Chocolate negro e flor de sal.",
+          "preco": "",
+          "imagem": "",
+          "ativo": true
+        },
+        {
+          "id": "v2",
+          "nome": "Marshmallow",
+          "descricao": "",
+          "preco": "",
+          "imagem": "",
+          "ativo": true
+        },
+        {
+          "id": "v3",
+          "nome": "Red Velvet",
+          "descricao": "Com pedaços de chocolate branco.",
+          "preco": 10,
+          "imagem": "",
+          "ativo": true,
+          "novo": true
+        },
+        {
+          "id": "v4",
+          "nome": "Arando",
+          "descricao": "Arando seco e aveia.",
+          "preco": "",
+          "imagem": "",
+          "ativo": true
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "nome": "Brownie",
+      "descricao": "Tabuleiro pequeno, cortado em 9 quadrados.",
+      "preco": 14,
+      "unidade": "tabuleiro",
+      "imagem": "",
+      "ativo": true,
+      "prazo": 0,
+      "alergenios": "glúten, ovo, leite, soja",
+      "conservacao": "3 a 4 dias em caixa fechada, fora do frigorífico"
+    },
+    {
+      "id": "p3",
+      "nome": "Tarte de amêndoa",
+      "descricao": "Tarte inteira, 22 cm.",
+      "preco": 18,
+      "unidade": "tarte",
+      "imagem": "",
+      "ativo": true,
+      "prazo": 0,
+      "alergenios": "glúten, ovo, leite, amêndoa",
+      "conservacao": "Até 4 dias, em local fresco"
+    },
+    {
+      "id": "p4",
+      "nome": "Bolo de cenoura",
+      "descricao": "Com cobertura de queijo creme.",
+      "preco": 16,
+      "unidade": "bolo",
+      "imagem": "",
+      "ativo": true,
+      "prazo": 0,
+      "alergenios": "glúten, ovo, leite",
+      "conservacao": "No frigorífico, até 4 dias. Retirar 30 minutos antes de servir"
+    },
+    {
+      "id": "p5",
+      "nome": "Cinnamon rolls",
+      "descricao": "Quatro unidades, com glacé de baunilha.",
+      "preco": 10,
+      "unidade": "conjunto",
+      "imagem": "",
+      "ativo": true,
+      "destaque": true,
+      "prazo": 0,
+      "alergenios": "glúten, ovo, leite",
+      "conservacao": "Melhor no próprio dia, mornos"
+    },
+    {
+      "id": "p6",
+      "nome": "Cheesecake de frutos vermelhos",
+      "descricao": "Bolo inteiro, 20 cm.",
+      "preco": 20,
+      "unidade": "bolo",
+      "imagem": "",
+      "ativo": true,
+      "prazo": 0,
+      "alergenios": "glúten, ovo, leite",
+      "conservacao": "Sempre no frigorífico, até 3 dias"
+    }
+  ],
+  "perguntas": [
+    {
+      "p": "Como funciona a encomenda?",
+      "r": "Escolhe a data, as quantidades, preenche o nome e o telemóvel e envia. A mensagem chega-me pelo WhatsApp. A encomenda só fica confirmada depois de eu responder."
+    },
+    {
+      "p": "Até quando posso encomendar?",
+      "r": "As encomendas de cada domingo fecham na quarta-feira anterior, às 23h59. Pode encomendar com semanas de antecedência, escolhendo outra data na lista."
+    },
+    {
+      "p": "E se tiver alergias?",
+      "r": "Cada produto indica os alergénios conhecidos. Tudo é feito na mesma cozinha doméstica, onde se manuseiam cereais com glúten, ovos, leite, frutos de casca rija, soja e sementes de sésamo, por isso não é possível garantir ausência de vestígios. Em caso de alergia grave, fale comigo antes de encomendar."
+    },
+    {
+      "p": "Como se paga?",
+      "r": "Por MB WAY, transferência ou numerário no momento do levantamento. Combinamos quando confirmo a encomenda."
+    },
+    {
+      "p": "Posso alterar ou cancelar?",
+      "r": "Sim, até ao fecho das encomendas dessa semana. Depois disso já está tudo comprado e começado, e nessa altura só consigo alterar em casos pontuais."
+    },
+    {
+      "p": "Fazem entregas ao domicílio?",
+      "r": "Por agora não. As encomendas são levantadas ao domingo, em Samora Correia, na morada e hora que combinarmos por mensagem."
+    }
+  ],
+  "testemunhos": []
+}
